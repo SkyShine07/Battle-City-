@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "3f8dad08e40c5953",
+    "type": "split",
+    "children": [
+      {
+        "id": "e937495eded50815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e933ab1607d91610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "坦克大战/坦克大战：复兴.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "坦克大战：复兴"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3398ec3ae9e489e",
+    "type": "split",
+    "children": [
+      {
+        "id": "459643b002a69288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5801aa5be7326fa5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5c62afc12c6c8dfe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5d68bea420ac7879",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c805fe67cb0789b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c917c1a82ff0455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a950c4a62f957e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "3229072210a8f383",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "cc92e39e49c67792",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8216601fb1d992d4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b3630c3822fd3c8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "e933ab1607d91610",
+  "lastOpenFiles": [
+    "round-system",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (17).wav",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (16).wav",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (3).wav",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (2).wav",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (1).wav",
+    "坦克大战/坦克大战：复兴.md",
+    "坦克大战/FC坦克大战.md",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (6).wav",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (9).wav",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (8).wav",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (7).wav",
+    "坦克大战/Battle City Sound Effects/Battle City SFX (4).wav",
+    "欢迎.md"
+  ]
+}
