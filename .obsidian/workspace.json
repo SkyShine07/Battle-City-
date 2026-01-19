@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "坦克大战/坦克大战：复兴.md",
+                "file": "坦克大战/FC坦克大战.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "坦克大战：复兴"
+              "title": "FC坦克大战"
             }
           }
         ]
@@ -180,21 +180,20 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "e933ab1607d91610",
+  "active": "5801aa5be7326fa5",
   "lastOpenFiles": [
+    "坦克大战/坦克大战：复兴.md",
+    "坦克大战/FC坦克大战.md",
     "round-system",
     "坦克大战/Battle City Sound Effects/Battle City SFX (17).wav",
     "坦克大战/Battle City Sound Effects/Battle City SFX (16).wav",
     "坦克大战/Battle City Sound Effects/Battle City SFX (3).wav",
     "坦克大战/Battle City Sound Effects/Battle City SFX (2).wav",
     "坦克大战/Battle City Sound Effects/Battle City SFX (1).wav",
-    "坦克大战/坦克大战：复兴.md",
-    "坦克大战/FC坦克大战.md",
     "坦克大战/Battle City Sound Effects/Battle City SFX (6).wav",
     "坦克大战/Battle City Sound Effects/Battle City SFX (9).wav",
     "坦克大战/Battle City Sound Effects/Battle City SFX (8).wav",
     "坦克大战/Battle City Sound Effects/Battle City SFX (7).wav",
-    "坦克大战/Battle City Sound Effects/Battle City SFX (4).wav",
     "欢迎.md"
   ]
 }
